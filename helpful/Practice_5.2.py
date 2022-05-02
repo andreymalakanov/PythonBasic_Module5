@@ -1,4 +1,4 @@
-# @andreymalakanov
+# Andrey Malakanov
 
 # 5.2 - 1 Координаты
 
